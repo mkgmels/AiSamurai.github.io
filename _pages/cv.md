@@ -11,7 +11,7 @@ redirect_from:
 
 # **Mohamed Khaled Gaber**
 
-**Junior Data Scientist | Machine Learning & Deep Learning Practitioner**
+**Data Scientist** | **Machine Learning & Deep Learning Practitioner**
 
 ---
 
