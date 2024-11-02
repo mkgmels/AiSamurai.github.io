@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "my-profile-photo.jpg"
   name             : "Mohamed Khaled"
-  pronouns         : # example: "she/her"  
-  bio              : "Hi, I'm Mohamed Khaled Gaber! I’m a machine learning and deep learning practitioner, and I love diving into data to uncover insights that can make a difference. I graduated in 2019 from Alexandria University with a degree in civil engineering, but my passion for technology led me to transition into the world of AI."
+  pronouns         : 
+  bio              : 
   location         : "Alexandria, Egypt"
   employer         : 
   uri              :
