@@ -11,14 +11,14 @@ redirect_from:
 
 # **Mohamed Khaled Gaber**
 
-**Data Scientist** | **Machine Learning & Deep Learning Practitioner**
+**Machine Learning & Deep Learning Practitioner**
 
 ---
 
 ## **Contact Information**
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [linkedin.com/in/mohamed-khaled-gaber](#)
-- **GitHub:** [github.com/yourusername](#)
+- **Email:** [your-email@example.com](jb.mlmastery@gmail.com)
+- **LinkedIn:** [linkedin.com/in/mohamed-khaled-632526207/](#)
+- **GitHub:** [github.com/mkgmels](#)
 
 ---
 
