@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,9 +16,9 @@ redirect_from:
 ---
 
 ## **Contact Information**
-- **Email:** [your-email@example.com](jb.mlmastery@gmail.com)
-- **LinkedIn:** [linkedin.com/in/mohamed-khaled-632526207/](#)
-- **GitHub:** [github.com/mkgmels](#)
+- **Email:** [jb.mlmastery@gmail.com](#)
+- **LinkedIn:** [https://www.linkedin.com/in/mohamed-khaled-632526207/](#)
+- **GitHub:** [https://github.com/mkgmels](#)
 
 ---
 
